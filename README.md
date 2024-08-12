@@ -1,3 +1,3 @@
-# <header>ALURA-FLIX<\header>
+# <header>ALURA-FLIX
  <h1>ATRAVES DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
  <p>#homem-aranha</p>
